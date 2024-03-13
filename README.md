@@ -6,3 +6,4 @@ Instructions :
 Type “ pip install paramiko ” (without quotes), hit Enter.
 If it doesn't work, try "pip3 install paramiko" or “ python -m pip install paramiko “.
 WARNING: YOU NEED TO DOWNLOAD PARAMIKO TO MAKE IT WORK 
+**NOTE: ONLY FOR ETHICAL USES
